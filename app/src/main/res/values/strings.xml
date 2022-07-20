@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HashGenerator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hash_generator">Hash Generator</string>
+    <string name="sha_256">SHA-256</string>
+    <string name="text_here">Text here...</string>
+    <string name="generate">Generate</string>
+    <string name="clear">Clear</string>
+    <string name="text">Text</string>
+    <string name="copy">Copy</string>
+    <string name="your_hash_value_will_appear_here">Your Hash Value will appear here</string>
+    <string name="copied">Copied!</string>
+
+    <string-array name="hash_algorithms">
+        <item>SHA-256</item>
+        <item>SHA-512</item>
+        <item>MD5</item>
+    </string-array>
+</resources>
